@@ -1,0 +1,2 @@
+serviceClass: com.xebia.client.GreetingService
+path: 800625626606165E4123EF1A672B6BB4.gwt.rpc
